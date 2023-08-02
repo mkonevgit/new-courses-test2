@@ -1,1 +1,1 @@
-console.log('Hello World!*****************************77777777777777777777*****')
+console.log('Hello World!*****')
